@@ -1,9 +1,11 @@
-# MyCoreAdminLaravel Ver 1.0
+# MyCoreAdmin
 
 Core Admin Access Control List (ACL) (Still Progress)
 This source is using
 * Laravel 5.3 framework 
-* Datatables
+* Laravel 5.3 auth
+* yajra/laravel-datatables
+* Maatwebsite/Laravel-Excel
 
 ## Official Documentation
 
