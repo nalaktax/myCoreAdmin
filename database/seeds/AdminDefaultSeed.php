@@ -78,7 +78,7 @@ class AdminDefaultSeed extends Seeder
 		        		$actions[] = $dataAction->name;
 		        	}		
 		        
-		        $data = [
+		         $data = [
 		        			0 => [
 		        				'name' => 'Roles Management',
 		        				'controller' => 'RolesController',
@@ -108,7 +108,7 @@ class AdminDefaultSeed extends Seeder
 		        			],
 		        			
 		        		];
-		        DB::table('menus')->insert($data);
+		          DB::table('menus')->insert($data);
         		/* *********** */
         		
         		/* Default Assigment */
