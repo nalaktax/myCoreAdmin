@@ -1,6 +1,6 @@
 # MyCoreAdminLaravel Ver 1.0
 
-Core Admin Access Control List (ACL)  with Laravel 5.3 (Still In Progress)
+Core Admin Access Control List (ACL)  with Laravel 5.3 (Still Progress)
 
 ## Official Documentation
 
