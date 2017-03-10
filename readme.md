@@ -1,11 +1,13 @@
 # MyCoreAdminLaravel Ver 1.0
 
-Core Admin Access Control List (ACL)  with Laravel 5.3 (Still Progress)
-
+Core Admin Access Control List (ACL) (Still Progress)
+This source is using
+* Laravel 5.3 framework 
+* Datatables
 ## Official Documentation
 
 ## Contributing
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+This source is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
